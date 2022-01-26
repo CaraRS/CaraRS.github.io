@@ -178,7 +178,7 @@ footer {
     font-family: 'Montserrat', Helvetica, sans-serif;
 }
 
-footer p {
+footer h3 {
     font-weight: 700;
     padding: 0px 0.5px 0px 0px;
 }
@@ -188,7 +188,7 @@ footer p {
 
 @media (max-width: 650px) {
     
-    footer p {
+    footer h3 {
         font-size: 1.5rem;
     }
 
