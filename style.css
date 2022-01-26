@@ -173,7 +173,7 @@ h3 {
 }
 
 footer {
-    color: #dadff2;
+    color: #fff;     /* #dadff2;*/
     background: #4A5Fc1;
     font-family: 'Montserrat', Helvetica, sans-serif;
 }
